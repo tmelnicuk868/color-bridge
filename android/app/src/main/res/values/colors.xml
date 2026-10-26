@@ -1,0 +1,5 @@
+<resources>
+    <!-- Pre-RN window background. Matches the dark LoaderScreen so the very
+         first frame the user sees is branded, not a black/white flash. -->
+    <color name="splashBackground">#041E33</color>
+</resources>

@@ -1,0 +1,84 @@
+{
+  "assets": [
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Codex-generated bg for ColorBridge"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Codex-generated bg for ColorBridge"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Codex-generated bg for ColorBridge"
+    },
+    {
+      "name": "button_rect",
+      "type": "button",
+      "prompt": "Codex-generated button for ColorBridge"
+    },
+    {
+      "name": "button_round",
+      "type": "button",
+      "prompt": "Codex-generated button for ColorBridge"
+    },
+    {
+      "name": "icon_home",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for ColorBridge"
+    },
+    {
+      "name": "icon_pause",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for ColorBridge"
+    },
+    {
+      "name": "logo",
+      "type": "icon",
+      "prompt": "Codex-generated icon for ColorBridge"
+    },
+    {
+      "name": "sprite_1",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for ColorBridge"
+    },
+    {
+      "name": "sprite_2",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for ColorBridge"
+    },
+    {
+      "name": "sprite_3",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for ColorBridge"
+    },
+    {
+      "name": "sprite_4",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for ColorBridge"
+    },
+    {
+      "name": "sprite_5",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for ColorBridge"
+    },
+    {
+      "name": "sprite_6",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for ColorBridge"
+    },
+    {
+      "name": "sprite_7",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for ColorBridge"
+    },
+    {
+      "name": "sprite_8",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for ColorBridge"
+    }
+  ]
+}

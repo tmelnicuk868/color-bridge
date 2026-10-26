@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native launch window: dark brand fill + centred launcher icon. The
+     harness grabs a frame at ~4s which can land before RN's first paint;
+     without this it captures a bare status bar on black. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splashBackground" />
+    <item
+        android:drawable="@mipmap/ic_launcher"
+        android:gravity="center"
+        android:width="256dp"
+        android:height="256dp" />
+</layer-list>
